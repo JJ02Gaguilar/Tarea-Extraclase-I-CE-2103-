@@ -8,8 +8,8 @@
 #include <stdio.h>
 #include <cstdlib>
 
-#ifndef TAREACORTA_MANEGERFILE_H
-#define TAREACORTA_MANEGERFILE_H
+#ifndef TAREAEXTRACLASE_MANEGERFILE_H
+#define TAREAEXTRACLASE_MANEGERFILE_H
 
 
 using namespace std;
